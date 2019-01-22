@@ -1,1 +1,1 @@
-mastermind
+lingo
